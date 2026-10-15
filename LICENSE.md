@@ -1,1 +1,5 @@
-All rights reserved, Szymon Mleczek 2026. Unauthorized copying or usage of this code not permitted.
+Copyright © 2026 Szymon Mleczek. All rights reserved.
+
+This software is proprietary. No license or permission is granted to any third party to use, execute, copy, modify, reproduce, distribute, sublicense, or commercially exploit this software, in whole or in part.
+
+All unauthorized usage is strictly prohibited.
